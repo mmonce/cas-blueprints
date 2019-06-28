@@ -1,5 +1,4 @@
-formatVersion: 1
-name:'vSphere'
+name: vSphere
 version: 1.0
 inputs: {}
 resources:

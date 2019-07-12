@@ -18,6 +18,7 @@ inputs:
     type: string
     enum:
       - Small
+      - Medium
       - Large
 resources:
   frontend:

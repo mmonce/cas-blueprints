@@ -7,7 +7,6 @@ inputs:
      - 'env:dev'
      - 'env:prod'
      - 'env:test'
-     - 'env:other'
      default: 'env:prod'
      title: Environment
      description: Target Environment

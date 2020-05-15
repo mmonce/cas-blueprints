@@ -7,7 +7,7 @@ inputs:
      - 'env:dev'
      - 'env:prod'
      - 'env:test'
-     default: 'env:prod'
+     default: 'env:dev'
      title: Environment
      description: Target Environment
    size:
